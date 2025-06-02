@@ -4,4 +4,4 @@
     </picture>
 </div>
 
-<h3 align="center">A fintech platform with a mobile app offering secure payments and real-time insights for small businesses and individuals in Madagascar.</h3>
+<h3 align="center">A fintech platform with a mobile app offering secure payments and real-time insights for businesses and individuals in Madagascar.</h3>
